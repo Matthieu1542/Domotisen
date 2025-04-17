@@ -1,0 +1,10 @@
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:18:18:virtual void ModelListener::newJunctionTempValue(int)	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:19:18:virtual void ModelListener::newJunctionHumiValue(int)	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:20:18:virtual void ModelListener::newJunctionAccelValue(int)	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:21:18:virtual void ModelListener::newJunctionPosiValue(int)	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:22:18:virtual void ModelListener::newJunctionDistValue(int)	0	static
+../../TouchGFX/gui/include/gui/volet_screen/VoletPresenter.hpp:19:13:VoletPresenter::~VoletPresenter()	0	static
+C:/Users/Matthieu/STM32CubeIDE/workspace_1.18.0/MyApplication_4/TouchGFX/gui/src/volet_screen/VoletPresenter.cpp:9:6:virtual void VoletPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/volet_screen/VoletPresenter.hpp:19:13:virtual VoletPresenter::~VoletPresenter()	8	static
+../../TouchGFX/gui/include/gui/volet_screen/VoletPresenter.hpp:19:13:virtual void* VoletPresenter::_ZThn4_N14VoletPresenterD1Ev()	0	static
+C:/Users/Matthieu/STM32CubeIDE/workspace_1.18.0/MyApplication_4/TouchGFX/gui/src/volet_screen/VoletPresenter.cpp:4:1:VoletPresenter::VoletPresenter(VoletView&)	0	static

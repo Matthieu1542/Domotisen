@@ -1,0 +1,12 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+../../TouchGFX/generated/gui_generated/include/gui_generated/volet_screen/VoletViewBase.hpp:34:18:virtual void VoletViewBase::buttonUp2Clicked()	0	static
+../../TouchGFX/generated/gui_generated/include/gui_generated/volet_screen/VoletViewBase.hpp:38:18:virtual void VoletViewBase::buttonDown2Clicked()	0	static
+C:/Users/Matthieu/STM32CubeIDE/workspace_1.18.0/MyApplication_4/TouchGFX/gui/src/volet_screen/VoletView.cpp:21:6:virtual void VoletView::tearDownScreen()	0	static
+C:/Users/Matthieu/STM32CubeIDE/workspace_1.18.0/MyApplication_4/TouchGFX/gui/src/volet_screen/VoletView.cpp:26:6:virtual void VoletView::buttonUp1Clicked()	8	static
+C:/Users/Matthieu/STM32CubeIDE/workspace_1.18.0/MyApplication_4/TouchGFX/gui/src/volet_screen/VoletView.cpp:33:6:virtual void VoletView::buttonDown1Clicked()	8	static
+../../TouchGFX/gui/include/gui/volet_screen/VoletView.hpp:10:13:VoletView::~VoletView()	8	static
+../../TouchGFX/gui/include/gui/volet_screen/VoletView.hpp:10:13:virtual VoletView::~VoletView()	8	static
+C:/Users/Matthieu/STM32CubeIDE/workspace_1.18.0/MyApplication_4/TouchGFX/gui/src/volet_screen/VoletView.cpp:11:1:VoletView::VoletView()	8	static
+C:/Users/Matthieu/STM32CubeIDE/workspace_1.18.0/MyApplication_4/TouchGFX/gui/src/volet_screen/VoletView.cpp:14:6:virtual void VoletView::setupScreen()	8	static

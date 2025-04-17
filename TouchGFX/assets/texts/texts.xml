@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.25.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1">
+      <Text Id="ALARME_ACTIVER" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">ACTIVER</Translation>
+      </Text>
+      <Text Id="ALARME_DESACTIVER" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">DESACTIVER</Translation>
+      </Text>
+    </TextGroup>
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_N4U6" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_PXJC" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;d&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_FNY3" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">NO</Translation>
+      </Text>
+      <Text Id="__SingleUse_9ZXP" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">YES</Translation>
+      </Text>
+      <Text Id="__SingleUse_EQOY" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">NO</Translation>
+      </Text>
+      <Text Id="__SingleUse_ADYI" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">YES</Translation>
+      </Text>
+      <Text Id="__SingleUse_KC9R" Alignment="Left" TypographyId="variable">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_2W0T" Alignment="Center" TypographyId="variable">
+        <Translation Language="GB">&lt;d&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_R1CR" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Porte 2</Translation>
+      </Text>
+      <Text Id="__SingleUse_UZ1Q" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Porte 1</Translation>
+      </Text>
+      <Text Id="__SingleUse_44AB" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">DomoTIsen</Translation>
+      </Text>
+      <Text Id="__SingleUse_KSQI" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Seisme</Translation>
+      </Text>
+      <Text Id="__SingleUse_XC0K" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Humidite</Translation>
+      </Text>
+      <Text Id="__SingleUse_79IO" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">VOLET 2</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZHE4" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">VOLET 1</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="ENGR.TTF" Size="25" Bpp="8" IsVector="no" Direction="LTR" WildcardCharacters="0-9" WildcardCharacterRanges="0-9" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" WildcardCharacters="0-9" WildcardCharacterRanges="0-9" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="variable" Font="verdana.ttf" Size="70" Bpp="4" IsVector="no" Direction="LTR" WildcardCharacters="0123456789%" />
+  </Typographies>
+</TextDatabase>

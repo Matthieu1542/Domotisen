@@ -1,0 +1,12 @@
+C:/Users/Matthieu/STM32CubeIDE/workspace_1.18.0/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:14:1:Model::Model()	1
+C:/Users/Matthieu/STM32CubeIDE/workspace_1.18.0/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:19:6:void Model::tick()	16
+C:/Users/Matthieu/STM32CubeIDE/workspace_1.18.0/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:63:6:void Model::setScanJunctionTemp(bool)	1
+C:/Users/Matthieu/STM32CubeIDE/workspace_1.18.0/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:68:5:int Model::getTempValue()	1
+C:/Users/Matthieu/STM32CubeIDE/workspace_1.18.0/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:73:6:void Model::setScanJunctionHumi(bool)	1
+C:/Users/Matthieu/STM32CubeIDE/workspace_1.18.0/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:78:5:int Model::getHumiValue()	1
+C:/Users/Matthieu/STM32CubeIDE/workspace_1.18.0/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:83:6:void Model::setScanJunctionAccel(bool)	1
+C:/Users/Matthieu/STM32CubeIDE/workspace_1.18.0/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:88:5:int Model::getAccelValue()	1
+C:/Users/Matthieu/STM32CubeIDE/workspace_1.18.0/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:93:6:void Model::setScanJunctionPosi(bool)	1
+C:/Users/Matthieu/STM32CubeIDE/workspace_1.18.0/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:98:5:int Model::getPosiValue()	1
+C:/Users/Matthieu/STM32CubeIDE/workspace_1.18.0/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:103:6:void Model::setScanJunctionDist(bool)	1
+C:/Users/Matthieu/STM32CubeIDE/workspace_1.18.0/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:108:5:int Model::getDistValue()	1
